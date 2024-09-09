@@ -1,4 +1,4 @@
-# web Programming 코드 모음
+# web Programming 실습 코드 모음
 
 1. week1.html
    - 기본적인 html 문서 작성

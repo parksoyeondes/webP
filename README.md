@@ -14,24 +14,24 @@
 4. week4_obj_gen_result.html
    - 사용자 객체 만들기 (객체 생성 3가지 방법 연습)
 5. week5
-   - prac8-4.html 실습문제 풀기
-   - prac8-6.html 실습문제 풀기
-   - prac8-10.html 실습문제 풀기
+   - practice8-4.html 
+   - practice8-6.html
+   - practice8-10.html 
 6. week6
    - apple.jpg / banana.jpg / mango.jpg
-   - prac9-2.html 실습문제 풀기 (라디오버튼 선택된 것으로 이미지 생성)
-   - prac9-3.html 실습문제 풀기 (Enter 키가 입력되었을 때 수식의 값 계산)
+   - practice9-2.html (라디오버튼 선택된 것으로 이미지 생성)
+   - practice9-3.html (Enter 키가 입력되었을 때 수식의 값 계산)
    - practice9-6.html (마우스 휠을 이용하여 이미지 확대&축소)
    - practice9-10.html (계산기 만들기)
 7. week7
-   - prac10-5.html 실습문제 풀기 (실습문제 10-6 포함 / SetTimeout, SetInterval 이용해서 시계 만들기)
-   - prac10-6.html 실습문제 풀기
+   - practice10-5.html (실습문제 10-6 포함 / SetTimeout, SetInterval 이용해서 시계 만들기)
+   - practice10-6.html
 8. week8 - 중간고사
 9. week9
-    - week9-practice1-1.html (세션 스토리지에 구입 리스트 저장)
-    - week9-practice1-2.html (세션 스토리지에서 구입 리스트 검색)
-    - week9-practice2-1.html (일기 보기)
-    - week9-practice2-2.html (일기 쓰기)
+    - practice1-1.html (세션 스토리지에 구입 리스트 저장)
+    - practice1-2.html (세션 스토리지에서 구입 리스트 검색)
+    - practice2-1.html (일기 보기)
+    - practice2-2.html (일기 쓰기)
 10. week10
     - practice13-6.html / multiple.js (워커 태스크를 활용해 두 수의 곱 출력)
     - practice13-9.html / add.js (워커 태스크에 시작 수와 끝 수를 보내고 두 수의 합 받기)
@@ -43,7 +43,7 @@
     - for2.js (forEach, 화살표 함수로 과목 총점 계산, 출력)
     - varlet.html (var, let의 차이와 함수 및 블록 내 변수)
 12. week12
-    - funcPr-practice.js (반복문, forEach, reduce, map을 사용한 총합 계산 및 데이터 변환)
+    - week12.js (반복문, forEach, reduce, map을 사용한 총합 계산 및 데이터 변환)
 13. week13
     - webserver1.js (기본 HTML 응답을 반환)
     - webserver2.js (fs.readFile로 HTML 파일 응답)
